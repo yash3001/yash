@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/yash/static/css/main.ea95e35b.chunk.css",
+    "main.css": "/yash/static/css/main.39629f18.chunk.css",
     "main.js": "/yash/static/js/main.1cc94ee0.chunk.js",
     "main.js.map": "/yash/static/js/main.1cc94ee0.chunk.js.map",
     "runtime-main.js": "/yash/static/js/runtime-main.7d20077f.js",
@@ -8,15 +8,15 @@
     "static/js/2.123c8d08.chunk.js": "/yash/static/js/2.123c8d08.chunk.js",
     "static/js/2.123c8d08.chunk.js.map": "/yash/static/js/2.123c8d08.chunk.js.map",
     "index.html": "/yash/index.html",
-    "precache-manifest.e91ba9e2363932083faf1598d699f4cf.js": "/yash/precache-manifest.e91ba9e2363932083faf1598d699f4cf.js",
+    "precache-manifest.ead10f866548c0e1463bcde3b5064819.js": "/yash/precache-manifest.ead10f866548c0e1463bcde3b5064819.js",
     "service-worker.js": "/yash/service-worker.js",
-    "static/css/main.ea95e35b.chunk.css.map": "/yash/static/css/main.ea95e35b.chunk.css.map",
+    "static/css/main.39629f18.chunk.css.map": "/yash/static/css/main.39629f18.chunk.css.map",
     "static/js/2.123c8d08.chunk.js.LICENSE.txt": "/yash/static/js/2.123c8d08.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7d20077f.js",
     "static/js/2.123c8d08.chunk.js",
-    "static/css/main.ea95e35b.chunk.css",
+    "static/css/main.39629f18.chunk.css",
     "static/js/main.1cc94ee0.chunk.js"
   ]
 }
