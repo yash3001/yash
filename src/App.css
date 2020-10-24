@@ -16,3 +16,9 @@ h1 {
   position: relative;
   top: 40%;
 }
+
+@media (max-width: 60rem) {
+  h1 {
+    font-size: 3rem;
+  }
+}
